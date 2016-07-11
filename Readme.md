@@ -4,12 +4,8 @@ TODO:
 
 - Connections
  
-	-	Create timer to maintain the network health.
-		(attempt a connection to each node on the list every 20 mins?)
-
-	-	if a connection drops, remove it from the connection list.
-		(the list is for active connections only).
-
+	-	Create timer to maintain the network health.(attempt a connection to each node on the list every 20 mins?).
+	-	if a connection drops, remove it from the connection list.(the list is for active connections only).
 	-	create counters to keep track of lists
 	-	stop deleting nodes if the list goes under 1000
 	-	max nodes == 20 000
