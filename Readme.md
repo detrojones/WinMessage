@@ -21,6 +21,9 @@ TODO:
 	-	finish the handling of public keys (sending & receiving)
 
 
+
+Thanks To:
+
 - Thanks to @c_07 from CodeProject.com
 	-	"The source code is NOT copyrighted and you may use it, modify it, and mess around with it to your heart's content, because it's too simple to copyright. HOWEVER, this does not apply to the tutorial..."(Taken from the readme)
 	-	http://www.codeproject.com/Articles/13071/Programming-Windows-TCP-Sockets-in-C-for-the-Begin
